@@ -16,4 +16,3 @@ Reason - pyplot graphs are not visible in Github
 
 # Target variable
 1. price : Price of the flat
-2. 
