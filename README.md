@@ -6,7 +6,9 @@ A company can use this model to predict what should be the approximate price of 
 
 # Note
 Use this link to view notebook : https://nbviewer.org/github/akshoku/price_reg/blob/main/Akshit_proj_ben_final.ipynb  
-Reason - pyplot graphs are not visible in Github
+Reason - pyplot graphs are not visible in Github  
+
+Dataset: https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data
 
 # Data Features:
 
