@@ -1,5 +1,5 @@
 # price_reg
-Bengaluru Price Prediction. Regression problem.
+Bengaluru House Price Prediction. Regression problem.
 # Note
 Use this link to view notebook : https://nbviewer.org/github/akshoku/price_reg/blob/main/Akshit_proj_ben_final.ipynb  
 Reason - pyplot graphs are not visible in Github
