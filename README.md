@@ -14,5 +14,10 @@ Reason - pyplot graphs are not visible in Github
 8. bath : Number of baths in flat
 9. balcony : Number of balcony in flat
 
+# Top 3 important features are:
+total_sqft
+bath
+size
+
 # Target variable
 1. price : Price of the flat
