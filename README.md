@@ -1,5 +1,5 @@
-# price_reg
-Bengaluru House Price Prediction. Regression problem.
+
+# Bengaluru House Price Prediction. Regression problem.
 
 # Business Use:
 A company can use this model to predict what should be the approximate price of the house in question if a customer wants to sell or buy a house.
