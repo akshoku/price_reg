@@ -2,7 +2,7 @@
 Bengaluru House Price Prediction. Regression problem.
 
 # Business Use  
-A company can use this model to predict what should be the approximate selling price of the house in question.
+A company can use this model to predict what should be the approximate price of the house in question if one wants to sell the house (or even buy one).
 
 # Note
 Use this link to view notebook : https://nbviewer.org/github/akshoku/price_reg/blob/main/Akshit_proj_ben_final.ipynb  
