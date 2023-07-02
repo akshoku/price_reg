@@ -1,14 +1,14 @@
 # price_reg
 Bengaluru House Price Prediction. Regression problem.
 
-# Business Use  
+# Business Use:
 A company can use this model to predict what should be the approximate price of the house in question if a customer wants to sell or buy a house.
 
 # Note
 Use this link to view notebook : https://nbviewer.org/github/akshoku/price_reg/blob/main/Akshit_proj_ben_final.ipynb  
 Reason - pyplot graphs are not visible in Github
 
-# Data Features
+# Data Features:
 
 1. area_type	: Tells the area type of the flat
 2. availability : If the flat is available or not
@@ -23,5 +23,5 @@ total_sqft
 bath  
 size  
 
-# Target variable
+# Target variable:
 1. price : Price of the flat
