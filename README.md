@@ -1,5 +1,9 @@
 # price_reg
 Bengaluru House Price Prediction. Regression problem.
+
+# Business Use  
+A company can use this model to predict what should be the approximate selling price of the house in question.
+
 # Note
 Use this link to view notebook : https://nbviewer.org/github/akshoku/price_reg/blob/main/Akshit_proj_ben_final.ipynb  
 Reason - pyplot graphs are not visible in Github
