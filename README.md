@@ -15,9 +15,9 @@ Reason - pyplot graphs are not visible in Github
 9. balcony : Number of balcony in flat
 
 # Top 3 important features are:
-total_sqft
-bath
-size
+total_sqft  
+bath  
+size  
 
 # Target variable
 1. price : Price of the flat
